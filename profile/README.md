@@ -1,6 +1,7 @@
-# Brights Learning
 ![Brightslogo](https://brights.com/Main_logotype_white_RGB_new.svg)
+We unlock brilliance!
 
+## Welcome
 Welcome to the GitHub organization of [Brights](https://www.brights.com)!
 This README provides an overview of our organization, guidelines for contributing, and useful resources to get started.
 
