@@ -1,5 +1,5 @@
 ![Brightslogo](https://brights.com/Main_logotype_white_RGB_new.svg)
-We unlock brilliance!
+<center>We unlock brilliance!</center>
 
 ## Welcome
 Welcome to the GitHub organization of [Brights](https://www.brights.com)!
@@ -15,6 +15,7 @@ We have a wide range of exciting learning programs in our organization. Here are
 * Java
 * Pega
 * Cyber Security
+
 Within this Github organiazion we are collecting the contents of our programs in a modularized way.
 
 ## Contributing
@@ -24,6 +25,7 @@ We welcome contributions from anyone interested in our programs and organization
 3. Make your changes and ensure they are properly tested.
 4. Submit a pull request with a clear description of your changes.
 5. Be open to feedback and be responsive to comments or suggestions.
+
 We appreciate your time and effort in contributing to our organization. By participating, you agree to abide by our Code of Conduct.
 
 ## Acknowledgements
