@@ -1,4 +1,5 @@
 ![Brightslogo](https://brights.com/Main_logotype_white_RGB_new.svg)
+
 <center>We unlock brilliance!</center>
 
 ## Welcome
