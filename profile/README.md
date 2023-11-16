@@ -16,7 +16,7 @@ We have a wide range of exciting learning programs in our organization. Here are
 * Pega
 * Cyber Security
 
-Within this Github organiazion we are collecting the contents of our programs in a modularized way. To get access to our ressources as an external trainer please reach out to the Program Manager or the internal trainers of Brights.
+Within this Github organization we are collecting the contents of our programs in a modularized way. To get access to our ressources as an external trainer please reach out to the Program Manager or the internal trainers of Brights.
 
 ## Contributing
 We welcome contributions from anyone interested in our programs and organization. To contribute, please follow these guidelines:
