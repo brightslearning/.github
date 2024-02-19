@@ -1,4 +1,4 @@
-![Brightslogo](https://brights.com/Main_logotype_white_RGB_new.svg)
+![Brightslogo](https://brights.com/_next/static/media/Logotype.7f7474ba.svg)
 
 <center>We unlock brilliance!</center>
 
